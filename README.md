@@ -1,4 +1,3 @@
-# Csharp-Polymorphic-Payment-Gateway
 # C# Polymorphic Payment Gateway (Live API Integration)
 
 ##  Project Overview: Polymorphic Payment Processor
