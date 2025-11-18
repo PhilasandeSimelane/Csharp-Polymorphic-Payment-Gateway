@@ -1,0 +1,14 @@
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\bin\Debug\net8.0\PaymentSystem.exe
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\bin\Debug\net8.0\PaymentSystem.deps.json
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\bin\Debug\net8.0\PaymentSystem.runtimeconfig.json
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\bin\Debug\net8.0\PaymentSystem.dll
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\bin\Debug\net8.0\PaymentSystem.pdb
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.AssemblyInfoInputs.cache
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.AssemblyInfo.cs
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.dll
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\refint\PaymentSystem.dll
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.pdb
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\PaymentSystem.genruntimeconfig.cache
+C:\Users\phila\OneDrive\Desktop\Practice C#\PaymentSystem\obj\Debug\net8.0\ref\PaymentSystem.dll
